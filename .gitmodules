@@ -13,3 +13,10 @@
 [submodule "modules/mavlink"]
 	path = modules/mavlink
 	url = https://github.com/OpenDrones/mavlink.git
+
+[submodule "modules/waf"]
+	path = modules/waf
+	url = git://github.com/ArduPilot/waf.git
+[submodule "modules/gbenchmark"]
+	path = modules/gbenchmark
+	url = git://github.com/google/benchmark.git
